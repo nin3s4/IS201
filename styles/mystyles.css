@@ -1,0 +1,47 @@
+.picture-override {
+    margin-left: 220px;
+    margin-top: 15px;
+}
+
+.BG-override {
+    background-color: #add8e6;
+}
+
+.font-override {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(69, 69, 69);
+}
+
+.video-override{
+    margin-left: 100px;
+}
+
+.sunsets {
+    margin-bottom: 15px;
+}
+
+.title-override {
+    font-style: italic;
+}
+
+.anchor-override {
+    bottom: 2px;
+    text-align: center;
+    position: relative;
+    color: rgb(216, 209, 2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-shadow: -1px 1px 0 #000,
+                1px 1px 0 #000,
+                1px -1px 0 #000,
+                -1px -1px 0 #000;
+}
+
+.leftmenu {
+
+    top: 700px;
+    left: 55px;
+    width: 250px;
+    font-size: 15px;
+    border-right: solid 1px #e6e6e6;
+}
